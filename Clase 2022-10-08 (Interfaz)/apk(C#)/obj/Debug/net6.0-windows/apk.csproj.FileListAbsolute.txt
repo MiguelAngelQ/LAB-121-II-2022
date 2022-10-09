@@ -1,0 +1,17 @@
+C:\Users\Micky\source\repos\apk\bin\Debug\net6.0-windows\apk.exe
+C:\Users\Micky\source\repos\apk\bin\Debug\net6.0-windows\apk.deps.json
+C:\Users\Micky\source\repos\apk\bin\Debug\net6.0-windows\apk.runtimeconfig.json
+C:\Users\Micky\source\repos\apk\bin\Debug\net6.0-windows\apk.dll
+C:\Users\Micky\source\repos\apk\bin\Debug\net6.0-windows\apk.pdb
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.csproj.AssemblyReference.cache
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.Form1.resources
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.csproj.GenerateResource.cache
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.AssemblyInfoInputs.cache
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.AssemblyInfo.cs
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.csproj.CoreCompileInputs.cache
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.dll
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\refint\apk.dll
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.pdb
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\apk.genruntimeconfig.cache
+C:\Users\Micky\source\repos\apk\obj\Debug\net6.0-windows\ref\apk.dll
