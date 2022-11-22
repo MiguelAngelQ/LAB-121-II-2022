@@ -1,0 +1,6 @@
+C:\Users\Micky\Documents\SharpDevelop Projects\ExLiberacion\ExLiberacion\obj\Debug\ExLiberacion.csprojResolveAssemblyReference.cache
+C:\Users\Micky\Documents\SharpDevelop Projects\ExLiberacion\ExLiberacion\bin\Debug\ExLiberacion.exe.config
+C:\Users\Micky\Documents\SharpDevelop Projects\ExLiberacion\ExLiberacion\bin\Debug\ExLiberacion.exe
+C:\Users\Micky\Documents\SharpDevelop Projects\ExLiberacion\ExLiberacion\bin\Debug\ExLiberacion.pdb
+C:\Users\Micky\Documents\SharpDevelop Projects\ExLiberacion\ExLiberacion\obj\Debug\ExLiberacion.exe
+C:\Users\Micky\Documents\SharpDevelop Projects\ExLiberacion\ExLiberacion\obj\Debug\ExLiberacion.pdb
